@@ -33,9 +33,7 @@
 <h3>Contact Me</h3>
 <div align="left">
 <p>
-<a href="mailto:lucasfonseca210@gmail.com">
-<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=gmail&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
-</a>
+<a href="mailto:lucasfonseca210@gmail.com"><img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=gmail&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail"></a>
 <a href="https://www.linkedin.com/in/lucasfonseca-dev"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
