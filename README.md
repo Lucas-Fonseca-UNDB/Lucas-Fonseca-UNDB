@@ -18,7 +18,7 @@
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,anaconda,py,sklearn,tensorflow,opencv,git,github,mysql,supabase,windows,powershell,linux,ubuntu,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,anaconda,py,sklearn,tensorflow,opencv,git,github,mysql,supabase,windows,powershell,linux,ubuntu,docker,&theme=dark" />
 <hr>
 
 ## About me
