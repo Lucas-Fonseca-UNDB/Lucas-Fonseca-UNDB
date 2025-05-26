@@ -14,20 +14,44 @@
 
 ## 🧰 My Stack
 
-### 🔬 Data Science & AI
-<img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,opencv" />
+<div align="center">
 
-### 🛠️ Dev Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,anaconda,selenium" />
+<table>
+  <tr>
+    <td align="center"><strong>🔬 Data Science & AI</strong></td>
+    <td align="center"><strong>🛠️ Dev Tools & Platforms</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py,fastapi,sklearn,tensorflow,opencv" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,anaconda" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🗄️ Databases & Cloud</strong></td>
+    <td align="center"><strong>💻 OS & Terminals</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=windows,powershell,linux,ubuntu" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>🌐 Web & Backend (Secondary Stack)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://skillicons.dev/icons?i=js,react,vite,nodejs,express,nestjs" />
+    </td>
+  </tr>
+</table>
 
-### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase" />
-
-### 💻 Operating Systems & Terminals
-<img src="https://skillicons.dev/icons?i=windows,powershell,linux,ubuntu" />
-
-### 🌐 Web & Backend (Secondary Stack)
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,nestjs" />
+</div>
 
 <hr>
 
