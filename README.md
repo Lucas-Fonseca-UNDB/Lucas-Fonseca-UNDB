@@ -26,7 +26,7 @@
       <img src="https://skillicons.dev/icons?i=py,fastapi,sklearn,tensorflow,opencv" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,anaconda" />
+      <img src="https://skillicons.dev/icons?i=vscode,github,postman,docker,anaconda" />
     </td>
   </tr>
   <tr>
