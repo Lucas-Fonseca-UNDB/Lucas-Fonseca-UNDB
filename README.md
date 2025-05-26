@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://skillicons.dev/icons?i=js,react,vite,nodejs,express,nestjs" />
+      <img src="https://skillicons.dev/icons?i=js,react,vite,nodejs,express" />
     </td>
   </tr>
 </table>
