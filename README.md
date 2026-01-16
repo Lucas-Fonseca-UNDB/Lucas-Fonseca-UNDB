@@ -138,22 +138,6 @@ me.say_hi()
 
 ---
 
-<div align="center">
-  
-### 💭 "Data is the new oil, but insights are the refined fuel that drives innovation."
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lucas-Fonseca-UNDB&color=brightgreen&style=flat-square)
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"> </picture> <!-- Cobrinha gerada por Platane/snk --> </div>
 
-</div>
-
----
-
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/Lucas-Fonseca-UNDB/Lucas-Fonseca-UNDB/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-<div align="center">
-  <i>⭐ From <a href="https://github.com/Lucas-Fonseca-UNDB">Lucas Fonseca</a></i>
-</div>
